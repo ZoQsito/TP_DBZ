@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "DBZ.KameHouse/1.0.0": {
+        "dependencies": {
+          "DBZ.Dojo": "1.0.0"
+        },
+        "runtime": {
+          "DBZ.KameHouse.dll": {}
+        }
+      },
+      "DBZ.Dojo/1.0.0": {
+        "runtime": {
+          "DBZ.Dojo.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DBZ.KameHouse/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "DBZ.Dojo/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

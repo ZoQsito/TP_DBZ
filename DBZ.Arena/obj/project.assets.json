@@ -1,0 +1,113 @@
+{
+  "version": 3,
+  "targets": {
+    "net6.0": {
+      "DBZ.Dojo/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "compile": {
+          "bin/placeholder/DBZ.Dojo.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DBZ.Dojo.dll": {}
+        }
+      },
+      "DBZ.KameHouse/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v6.0",
+        "dependencies": {
+          "DBZ.Dojo": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/DBZ.KameHouse.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DBZ.KameHouse.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "DBZ.Dojo/1.0.0": {
+      "type": "project",
+      "path": "../DBZ.Dojo/DBZ.Dojo.csproj",
+      "msbuildProject": "../DBZ.Dojo/DBZ.Dojo.csproj"
+    },
+    "DBZ.KameHouse/1.0.0": {
+      "type": "project",
+      "path": "../DBZ.KameHouse/DBZ.KameHouse.csproj",
+      "msbuildProject": "../DBZ.KameHouse/DBZ.KameHouse.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net6.0": [
+      "DBZ.Dojo >= 1.0.0",
+      "DBZ.KameHouse >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\flori\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\flori\\Documents\\EPSI\\C#\\DBZ\\DBZ.Arena\\DBZ.Arena.csproj",
+      "projectName": "DBZ.Arena",
+      "projectPath": "c:\\Users\\flori\\Documents\\EPSI\\C#\\DBZ\\DBZ.Arena\\DBZ.Arena.csproj",
+      "packagesPath": "C:\\Users\\flori\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\flori\\Documents\\EPSI\\C#\\DBZ\\DBZ.Arena\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\flori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net6.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "projectReferences": {
+            "c:\\Users\\flori\\Documents\\EPSI\\C#\\DBZ\\DBZ.Dojo\\DBZ.Dojo.csproj": {
+              "projectPath": "c:\\Users\\flori\\Documents\\EPSI\\C#\\DBZ\\DBZ.Dojo\\DBZ.Dojo.csproj"
+            },
+            "c:\\Users\\flori\\Documents\\EPSI\\C#\\DBZ\\DBZ.KameHouse\\DBZ.KameHouse.csproj": {
+              "projectPath": "c:\\Users\\flori\\Documents\\EPSI\\C#\\DBZ\\DBZ.KameHouse\\DBZ.KameHouse.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net6.0": {
+        "targetAlias": "net6.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

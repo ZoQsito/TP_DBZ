@@ -1,0 +1,12 @@
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.Dojo\bin\Debug\net6.0\DBZ.Dojo.deps.json
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.Dojo\bin\Debug\net6.0\DBZ.Dojo.dll
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.Dojo\bin\Debug\net6.0\DBZ.Dojo.pdb
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.Dojo\obj\Debug\net6.0\DBZ.Dojo.csproj.AssemblyReference.cache
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.Dojo\obj\Debug\net6.0\DBZ.Dojo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.Dojo\obj\Debug\net6.0\DBZ.Dojo.AssemblyInfoInputs.cache
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.Dojo\obj\Debug\net6.0\DBZ.Dojo.AssemblyInfo.cs
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.Dojo\obj\Debug\net6.0\DBZ.Dojo.csproj.CoreCompileInputs.cache
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.Dojo\obj\Debug\net6.0\DBZ.Dojo.dll
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.Dojo\obj\Debug\net6.0\refint\DBZ.Dojo.dll
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.Dojo\obj\Debug\net6.0\DBZ.Dojo.pdb
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.Dojo\obj\Debug\net6.0\ref\DBZ.Dojo.dll

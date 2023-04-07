@@ -1,0 +1,15 @@
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\bin\Debug\net6.0\DBZ.KameHouse.deps.json
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\bin\Debug\net6.0\DBZ.KameHouse.dll
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\bin\Debug\net6.0\DBZ.KameHouse.pdb
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\bin\Debug\net6.0\DBZ.Dojo.dll
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\bin\Debug\net6.0\DBZ.Dojo.pdb
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\obj\Debug\net6.0\DBZ.KameHouse.csproj.AssemblyReference.cache
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\obj\Debug\net6.0\DBZ.KameHouse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\obj\Debug\net6.0\DBZ.KameHouse.AssemblyInfoInputs.cache
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\obj\Debug\net6.0\DBZ.KameHouse.AssemblyInfo.cs
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\obj\Debug\net6.0\DBZ.KameHouse.csproj.CoreCompileInputs.cache
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\obj\Debug\net6.0\DBZ.KameHouse.csproj.CopyComplete
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\obj\Debug\net6.0\DBZ.KameHouse.dll
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\obj\Debug\net6.0\refint\DBZ.KameHouse.dll
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\obj\Debug\net6.0\DBZ.KameHouse.pdb
+C:\Users\flori\Documents\EPSI\C#\DBZ\DBZ.KameHouse\obj\Debug\net6.0\ref\DBZ.KameHouse.dll
